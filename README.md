@@ -21,9 +21,9 @@ A React app that displays the Aurora CS Developer Track course catalog, tracks w
 1. **Clone the repo and install dependencies**
 
    ```bash
-   git clone https://github.com/Jaedog117/CSC-3700
+   https://github.com/Jaedog117/M1---Course-Scheduler
    cd CSC-3700
-   npm install
+   cd M1---Course-Scheduler
    ```
 
 2. **Create the `.env` file** in the project root (it is not committed to git).
